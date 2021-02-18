@@ -4,6 +4,7 @@ import cv2
 import os
 import argparse
 fil = []
+#oh my gosh
 #for conflciting
 #hai
 parser = argparse.ArgumentParser(description="Convert videos to frames.",
